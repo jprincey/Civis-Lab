@@ -4,4 +4,4 @@ Hello!
 
 This is a test message. 
 
-Thanks :)
+Thanks :) :)
